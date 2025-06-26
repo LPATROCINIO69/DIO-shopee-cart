@@ -8,5 +8,5 @@ Criar um projeto backend para gerenciar um carrinho de compras com comportamento
 - Carrinho de compras
 
 ### Entidades a serem representadas
-- carrinho de compras
-- item de compra
+- carrinho de compras   -> arquivo correspondente: cart.js
+- item de compra        -> arquivo correspondente: item.js
